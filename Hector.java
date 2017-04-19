@@ -6,7 +6,7 @@ public class Hector {
 	}
 
 	public static void hector() {
-		System.out.println();
+		System.out.println("Test Hector");
 	}
 
 }
